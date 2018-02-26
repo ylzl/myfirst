@@ -6,3 +6,6 @@ public class FirstProject {
   }
 
 }
+public class MyPrint{
+  System.out.println("i am coming");
+}
